@@ -1,3 +1,21 @@
 ===============================
 🕒 Execução iniciada em: 27/12/2025 19:56:07
 📌 Verificando alterações...
+warning: in the working copy of 'backup.log', LF will be replaced by CRLF the next time Git touches it
+📄 Arquivos alterados:
+ D _Tutoriais_AddArquivos_Automaticos/backup_diario.sh
+ M backup.log
+?? _Tutoriais_AddArquivos_Automaticos/backup_git.sh
+warning: in the working copy of 'backup.log', LF will be replaced by CRLF the next time Git touches it
+[main f8986d1] Backup diário automático - 27/12/2025 19:56
+ 3 files changed, 59 insertions(+), 38 deletions(-)
+ delete mode 100644 _Tutoriais_AddArquivos_Automaticos/backup_diario.sh
+ create mode 100644 _Tutoriais_AddArquivos_Automaticos/backup_git.sh
+To https://github.com/LeonardoFariaPBi/Python.git
+   18ca30f..f8986d1  main -> main
+🚀 Backup concluído com sucesso!
+===============================
+===============================
+🕒 Execução iniciada em: 27/12/2025 20:01:11
+📌 Verificando alterações...
+warning: in the working copy of 'backup.log', LF will be replaced by CRLF the next time Git touches it
