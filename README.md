@@ -55,15 +55,28 @@ python src/myproject/main.py
 
 ## Running Tests
 
-Run all tests:
+### Quick Testing (without installation)
+You can run individual test files directly:
+```bash
+python tests/test_main.py
+python tests/test_utils.py
+```
+
+### Using pytest (recommended)
+First, install the package in development mode:
+```bash
+pip install -e .
+```
+
+Then run all tests with pytest:
 ```bash
 python -m pytest tests/
 ```
 
-Or run individual test files:
+Or with pytest installed via dev dependencies:
 ```bash
-python tests/test_main.py
-python tests/test_utils.py
+pip install -e ".[dev]"
+pytest tests/
 ```
 
 ## Development
