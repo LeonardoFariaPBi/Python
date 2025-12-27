@@ -8,7 +8,7 @@ if git diff --quiet && git diff --cached --quiet; then
 fi
 
 git add .
-git commit -a -m "Update automático"
+git commit -m "Update automático"
 git push
 
 echo "🚀 Push finalizado!"
