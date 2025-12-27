@@ -26,7 +26,7 @@ if "%~1"=="" (
     echo Usando mensagem: '%~1'
 )
 
-git commit -a -m "%COMMIT_MSG%"
+git commit -m "%COMMIT_MSG%"
 if %errorlevel% equ 0 (
     echo Commit criado com sucesso
 ) else (

@@ -1,7 +1,7 @@
 === COMANDOS MANUAIS ===
 git status
 git add .
-git commit -a -m "Add Arquivos"
+git commit -m "Add Arquivos"
 git push
 
 === AUTOMAÇÃO ===

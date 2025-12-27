@@ -34,7 +34,7 @@ Os scripts automatizam os seguintes comandos git:
 
 1. `git status` - Mostra o status atual do repositório
 2. `git add .` - Adiciona todos os arquivos modificados
-3. `git commit -a -m "mensagem"` - Cria um commit com a mensagem especificada
+3. `git commit -m "mensagem"` - Cria um commit com a mensagem especificada
 4. `git push` - Envia as alterações para o GitHub
 
 ## Exemplos de Uso

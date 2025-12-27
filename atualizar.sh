@@ -34,7 +34,7 @@ else
     echo -e "${YELLOW}Usando mensagem: '$COMMIT_MSG'${NC}"
 fi
 
-git commit -a -m "$COMMIT_MSG"
+git commit -m "$COMMIT_MSG"
 if [ $? -eq 0 ]; then
     echo -e "${GREEN}✓ Commit criado com sucesso${NC}"
 else
