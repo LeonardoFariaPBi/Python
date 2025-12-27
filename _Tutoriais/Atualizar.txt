@@ -1,4 +1,26 @@
+=== COMANDOS MANUAIS ===
 git status
 git add .
-git  commit -a -m "Add Arquivos"
+git commit -a -m "Add Arquivos"
 git push
+
+=== AUTOMAÇÃO ===
+Para automatizar os comandos acima, use os scripts disponíveis:
+
+LINUX/MAC (Bash):
+1. Com mensagem padrão:
+   ./atualizar.sh
+
+2. Com mensagem personalizada:
+   ./atualizar.sh "Sua mensagem de commit aqui"
+
+WINDOWS (Batch):
+1. Com mensagem padrão:
+   atualizar.bat
+
+2. Com mensagem personalizada:
+   atualizar.bat "Sua mensagem de commit aqui"
+
+Exemplos:
+   ./atualizar.sh "Adiciona novos exercícios"
+   atualizar.bat "Corrige erro no módulo 7"
