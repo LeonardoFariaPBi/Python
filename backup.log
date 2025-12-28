@@ -1,4 +1,10 @@
 ===============================
-🕒 Execução iniciada em: 28/12/2025 17:11:14
-📌 Verificando alterações...
+🕒 Execução iniciada em: 28/12/2025 17:12:55
+🔄 Atualizando repositório remoto...
+error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+❌ Erro no git pull --rebase
+===============================
+🕒 Execução iniciada em: 28/12/2025 17:13:54
 warning: in the working copy of 'backup.log', LF will be replaced by CRLF the next time Git touches it
+📦 Alterações locais detectadas — salvando stash...
