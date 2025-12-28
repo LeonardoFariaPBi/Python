@@ -39,3 +39,15 @@ produtos_ecommerce = [
     [3300, 700],
     [1900, 400]
 ]
+
+
+if 'livro' in produtos:
+    i = produtos.index('livro')
+    total_antigo = produtos_ecommerce[i][0] * produtos_ecommerce[i][1]
+    print('O total antigo de vendas de livros é: R$ {:,}' .format(total_antigo))
+    reajuste = 1.10
+    produtos_ecommerce[i][1] = produtos_ecommerce[i][1] * reajuste
+    novo_total = produtos_ecommerce[i][0] * produtos_ecommerce[i][1]
+    print('Vamos pagar a mais: R$ {:,}' .format(novo_total - total_antigo))
+else:
+    print('Produto não encontrado')
