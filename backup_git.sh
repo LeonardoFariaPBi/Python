@@ -49,7 +49,7 @@ git commit -m "Backup diário automático - $(date '+%d/%m/%Y %H:%M')" || {
     exit 1
 }
 
-git push || {
+git push -f || {
     echo "❌ Erro no git push (verifique autenticação)"
     exit 1
 }
