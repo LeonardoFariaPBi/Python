@@ -54,3 +54,77 @@ warning: in the working copy of 'Modulo 8 - Metodos e Usos/Exercícios Listas - 
 warning: in the working copy of 'Modulo 8 - Metodos e Usos/Exercícios Listas - Parte 2.ipynb', LF will be replaced by CRLF the next time Git touches it
 warning: in the working copy of 'Modulo 8 - Metodos e Usos/Exercícios Listas - Parte 2.py', LF will be replaced by CRLF the next time Git touches it
 warning: in the working copy of 'Modulo 8 - Metodos e Usos/Listas 12.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'backup.log', LF will be replaced by CRLF the next time Git touches it
+📄 Arquivos alterados:
+ M "Modulo 8 - Metodos e Usos/Exerc\303\255cios Listas - Parte 1.ipynb"
+ M "Modulo 8 - Metodos e Usos/Exerc\303\255cios Listas - Parte 1.py"
+ M "Modulo 8 - Metodos e Usos/Exerc\303\255cios Listas - Parte 2.ipynb"
+ M "Modulo 8 - Metodos e Usos/Exerc\303\255cios Listas - Parte 2.py"
+ M "Modulo 8 - Metodos e Usos/Listas 12.ipynb"
+ M backup.log
+?? "Modulo 9 - Estrutura FOR/"
+warning: in the working copy of 'Modulo 8 - Metodos e Usos/Exercícios Listas - Parte 1.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 8 - Metodos e Usos/Exercícios Listas - Parte 1.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 8 - Metodos e Usos/Exercícios Listas - Parte 2.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 8 - Metodos e Usos/Exercícios Listas - Parte 2.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 8 - Metodos e Usos/Listas 12.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'backup.log', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/Diferentes%20for.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/Diferentes%20for.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/Exerc%C3%ADcios%20de%20For%20-%20Exercicios%201.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/Exercicios_For-Exercicios_3-Gabarito.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/Exercicios_For-Exercicios_3.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/Exercicios_de_For-Exercicios_2.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/For 01.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/For 02.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/For%2003.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/For%2004.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/For%2011.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/For_08.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/For_09.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/Gabarito - For 01.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/Gabarito - For 02.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/Gabarito%20-%20For%2003.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/Gabarito%20-%20For%2004.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/Gabarito%20-%20For%2011.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/Gabarito_For_08.ipynb', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Modulo 9 - Estrutura FOR/Gabarito_For_09.ipynb', LF will be replaced by CRLF the next time Git touches it
+[main c4e0c1b] Backup diário automático - 28/12/2025 17:00
+ 30 files changed, 2116 insertions(+), 30 deletions(-)
+ create mode 100644 Modulo 9 - Estrutura FOR/Diferentes%20for.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/Diferentes%20for.py
+ create mode 100644 Modulo 9 - Estrutura FOR/Exerc%C3%ADcios%20de%20For%20-%20Exercicios%201%20-%20Gabarito.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/Exerc%C3%ADcios%20de%20For%20-%20Exercicios%201.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/Exercicios_For-Exercicios_3-Gabarito.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/Exercicios_For-Exercicios_3.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/Exercicios_de_For-Exercicios%20_2_Gabarito.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/Exercicios_de_For-Exercicios_2.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/For 01.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/For 02.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/For%2003.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/For%2004.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/For%2011.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/For_08.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/For_09.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/Gabarito - For 01.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/Gabarito - For 02.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/Gabarito%20-%20For%2003.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/Gabarito%20-%20For%2004.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/Gabarito%20-%20For%2011.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/Gabarito_For_08.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/Gabarito_For_09.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/Listas-Gabarito.ipynb
+ create mode 100644 Modulo 9 - Estrutura FOR/Listas.ipynb
+To https://github.com/LeonardoFariaPBi/Python.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/LeonardoFariaPBi/Python.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+❌ Erro no git push (verifique autenticação)
+===============================
+🕒 Execução iniciada em: 28/12/2025 17:03:00
+📌 Verificando alterações...
+warning: in the working copy of 'backup.log', LF will be replaced by CRLF the next time Git touches it
